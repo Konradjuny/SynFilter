@@ -138,16 +138,16 @@ ItemDisplay[r21]: %TAN%%RUNENAME%
 ItemDisplay[r22]: %TAN%%RUNENAME% 
 ItemDisplay[r23]: %TAN%%RUNENAME%
 //24-33
-ItemDisplay[r24]: %RED%%RUNENAME%
-ItemDisplay[r25]: %RED%%RUNENAME%
-ItemDisplay[r26]: %RED%%RUNENAME%
-//ItemDisplay[r27]: %RED%%RUNENAME%
-//ItemDisplay[r28]: %RED%%RUNENAME%
-//ItemDisplay[r29]: %RED%%RUNENAME%
-//ItemDisplay[r30]: %RED%%RUNENAME% 
-ItemDisplay[r31]: %RED%%RUNENAME%
-ItemDisplay[r32]: %RED%%RUNENAME%
-ItemDisplay[r33]: %RED%%RUNENAME%
+ItemDisplay[r24]: %RED%+++++%RUNENAME%+++++
+ItemDisplay[r25]: %RED%+++++%RUNENAME%+++++
+ItemDisplay[r26]: %RED%+++++%RUNENAME%+++++
+//ItemDisplay[r27]: %RED%+++++%RUNENAME%+++++
+//ItemDisplay[r28]: %RED%+++++%RUNENAME%+++++
+//ItemDisplay[r29]: %RED%+++++%RUNENAME%+++++
+//ItemDisplay[r30]: %RED%+++++%RUNENAME%+++++
+ItemDisplay[r31]: %RED%+++++%RUNENAME%+++++
+ItemDisplay[r32]: %RED%+++++%RUNENAME%+++++
+ItemDisplay[r33]: %RED%+++++%RUNENAME%+++++
 //High Value Runes (3.0+)
 ItemDisplay[r27]: %RED%¤ %RUNENAME% ¤
 ItemDisplay[r28]: %RED%¤ %RUNENAME% ¤
